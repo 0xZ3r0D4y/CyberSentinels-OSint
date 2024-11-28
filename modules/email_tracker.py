@@ -1,5 +1,4 @@
 import requests
-from bs4 import BeautifulSoup
 
 class EmailTracker:
     def __init__(self, email: str) -> None:
